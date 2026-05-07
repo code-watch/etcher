@@ -1,4 +1,27 @@
 - commits:
+    - subject: Replace the EOL macos-13 test runners with macos-14
+      hash: 835222525f77279e0858328a57390de3bb761805
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        See: https://github.blog/changelog/2025-09-19-github-actions-macos-13-runner-image-is-closing-down/
+        see: https://github.blog/changelog/2025-09-19-github-actions-macos-13-runner-image-is-closing-down/
+      author: Thodoris Greasidis
+      nested: []
+    - subject: Add libgdk-pixbuf dependency alternatives to fix Ubuntu 26.04
+        installation
+      hash: ccf063f9cb5d7ab8c2503c98adbe1439f7d0ab95
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Thodoris Greasidis
+      nested: []
+  version: 2.1.5
+  title: ""
+  date: 2026-05-07T12:55:07.475Z
+- commits:
     - subject: "patch: fix ubuntu 24 build and flash issues - bump electron-forge to
         7.8.1 - bump electron to 37.2.4 - stop producing broken appimage"
       hash: c824a60e5dc9a78b92679fa8915e3ddad4127c05

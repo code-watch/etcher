@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v2.1.5
+## (2026-05-07)
+
+* Replace the EOL macos-13 test runners with macos-14 [Thodoris Greasidis]
+* Add libgdk-pixbuf dependency alternatives to fix Ubuntu 26.04 installation [Thodoris Greasidis]
+
 # v2.1.4
 ## (2025-07-29)
 
