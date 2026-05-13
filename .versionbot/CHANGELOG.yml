@@ -1,4 +1,18 @@
 - commits:
+    - subject: Fix MacOS x86 build by switching to the macos-14-large GH runner
+      hash: faab6b2fb0aef21f78d9a84240a0032327e1f9d9
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        See: https://balena.fibery.io/Work/Project/2581
+        see: https://balena.fibery.io/Work/Project/2581
+      author: Thodoris Greasidis
+      nested: []
+  version: 2.1.6
+  title: ""
+  date: 2026-05-13T16:39:40.430Z
+- commits:
     - subject: Replace the EOL macos-13 test runners with macos-14
       hash: 835222525f77279e0858328a57390de3bb761805
       body: ""

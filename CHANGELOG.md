@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v2.1.6
+## (2026-05-13)
+
+* Fix MacOS x86 build by switching to the macos-14-large GH runner [Thodoris Greasidis]
+
 # v2.1.5
 ## (2026-05-07)
 
